@@ -8,7 +8,7 @@
 
 <p>I'm currently an Information technology student at Higher Institute of Technological Studies of Nabeul , i specialize in crafting web applications using a robust tech stack that includes mainly Next.js, React, Tailwind CSS, TypeScript, Prisma...
 
-check my portfolio : <a href="[https://www.cprogramming.com/](https://www.nourdine-jazi.tn/)" target="_blank" rel="noreferrer">nourdine-jazi.tn</a> </p>
+check my portfolio : <a href="https://www.nourdine-jazi.tn/" target="_blank" rel="noreferrer">nourdine-jazi.tn</a> </p>
 
 
 
