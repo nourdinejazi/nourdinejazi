@@ -8,6 +8,6 @@
 
 <p>i specialize in crafting web applications using a robust tech stack that includes mainly Next.js, React, Tailwind CSS, TypeScript, Prisma...
 
-check my portfolio : <a href="https://www.nourdine-jazi.tn/" target="_blank" rel="noreferrer">nourdine-jazi.tn</a> </p>
+check out my portfolio : <a href="https://www.nourdine-jazi.tn/" target="_blank" rel="noreferrer">nourdine-jazi.tn</a> </p>
 
 
